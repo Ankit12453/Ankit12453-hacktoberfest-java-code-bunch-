@@ -1,0 +1,4 @@
+// function expression
+let x = function(x, y) {
+   return x * y;
+}
